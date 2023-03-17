@@ -1,0 +1,9 @@
+home_url: http://coop.apps.symfonycasts.com/api/
+auth_url: http://coop.apps.symfonycasts.com/token
+user_info:
+  id: '4410'
+  first_name:
+  last_name:
+  email:
+client_id: PriyankaApp2512
+client_secret: 748aff6ddd42c50a11055d111d5e7375
