@@ -3,18 +3,15 @@
 
 ### Installation Method
 
-shell
 pip install -r requirements.txt
 
 
 ### Test API using pytest
 
-shell
 python3 -m pytest -v -s api/test_successful_calls.py
 python3 -m pytest -v -s api/test_failed_auth.py
 
 
 ### Test WEB using pytest
 
-shell
 python3 -m pytest -v -s web/tests/test_cases.py
